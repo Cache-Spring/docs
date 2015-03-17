@@ -42,6 +42,9 @@
 [/JenkinsProjects/jenkins-signup-spring2/Spring/gs-caching-master/initial] (Simple Spring using Gradle Cacheable ** gs-caching-master.zip)
 [/JenkinsProjects/jenkins-signup-spring2/Spring/gs-caching-master/complete] (Simple Spring using Gradle Cacheable ** gs-caching-master.zip)
 ******************************************************************************************
+(Caching Data with Spring) https://spring.io/guides/gs/caching/
+(Cache Abstraction * Part VI. Integration) http://docs.spring.io/spring/docs/current/spring-framework-reference/html/cache.html
+(Простой и полезный Spring Cache) http://nikcode.blogspot.com/2012/12/spring-cache.html
 ************************************************************************************************************************************************************************************
 
 
