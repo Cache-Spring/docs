@@ -1,0 +1,51 @@
+
+(spring способы кэширования)
+** (Дальнейшие усовершенствования кеширования в Spring 4.1) http://spring-projects.ru/blog/further-cache-improvements-in-spring-4-1/
+   (Caching Data with Spring) https://spring.io/guides/gs/caching/
+   (Spring ** Основные интерфейсы) http://www.spring-source.ru/docs_simple.php?type=manual&theme=docs_simple&docs_simple=chap03_p03
+
+(spring dao cache)
+   (Extending declarative caching services for Spring) http://www.javaworld.com/article/2072722/extending-declarative-caching-services-for-spring.html
+   (Cache abstraction in Spring 3) https://doanduyhai.wordpress.com/2012/07/01/cache-abstraction-in-spring-3/
+   (Ehcache ** JDBC Caching) http://ehcache.org/documentation/2.8/integrations/jdbc
+   (Transactions with Spring Cache Abstraction and JDBC DAO) http://stackoverflow.com/questions/10904400/transactions-with-spring-cache-abstraction-and-jdbc-dao
+*  (Spring JDBC and Ehcache) https://exploringspatial.wordpress.com/2014/02/16/spring-jdbc-and-ehcache/
+
+(spring работа с базой данных кэширование)
+   (Domain-Driven Design: Продажа идеи) http://blog.byndyu.ru/2012/03/domain-driven-design.html
+   (Spring Data на примере JPA) http://habrahabr.ru/post/139421/
+   (Упрощаем работу с JPA при помощи Spring Data JPA) http://atamanenko.blogspot.com/2012/02/jpa-spring-data-jpa.html
+
+(spring кэширование транзакций к базе пример)
+** (Кеширование в Spring Framework 3.1) http://habrahabr.ru/post/113945/
+*  (Spring 3.1: новые возможности ** Абстракция кэширования (cache abstraction)) http://www.finecosoft.ru/spring-3.1-new-features
+   (Использование Spring для работы с базой данных через JPA) https://github.com/wizardjedi/my-spring-learning/wiki/Работа-с-базами-данных-на-основе-jpa
+*  (The Spring framework: Основы) http://www.javaportal.ru/java/articles/spring.html
+      (Основной сайт Spring Framework) http://www.springframework.org/
+      (Описание паттерна IoC. Автор: Мартин Фаулер (Martin Fowler)) http://www.martinfowler.com/articles/injection.html
+*  (Spring в действии. 3-издание / Spring in Action. Third Edition) http://rutracker.org/forum/viewtopic.php?t=4537975
+*  (Spring caching with Ehcache) http://www.codingpedia.org/ama/spring-caching-with-ehcache/
+*  (Cache Abstraction ** Part VI. Integration) http://docs.spring.io/spring/docs/current/spring-framework-reference/html/cache.html
+*  (Introducing Cache support in Spring 3.1 M1) http://viralpatel.net/blogs/cache-support-spring-3-1-m1/
+** (Hibernate EHCache Second Level Caching Example Tutorial ** Hibernate EHCache Project) http://www.journaldev.com/2980/hibernate-ehcache-second-level-caching-example-tutorial
+*  (Simple Spring Memcached – Spring Caching Abstraction and Memcached) http://www.javacodegeeks.com/2013/06/simple-spring-memcached-spring-caching-abstraction-and-memcached.html
+                                                                        http://www.javacodegeeks.com/author/niraj-singh/
+
+
+************************************************************************************************************************************************************************************
+[/JenkinsProjects/jenkins-signup-spring2/Spring/HibernateEHCacheExample/HibernateEHCacheExample ** ehcache2|ADDRESS,EMPOYEE] ( ** HibernateEHCacheExample.zip)
+[/JenkinsProjects/jenkins-signup-spring2/Spring/Spring31 ** cachetest|airport,country,spoken_language] ( ** Spring31.zip,cache.zip)
+
+[/JenkinsProjects/jenkins-signup-spring2/Spring/spring-mvc-simple-master] (Simple Spring MVC web application using Gradle ** spring-mvc-simple-master.zip|spring-mvc-simple-master.war) http://10.13.71.153:8080/spring-mvc-simple-master/home
+         [/JenkinsProjects/jenkins-signup-spring2/Spring/GradleSpringMVC] (Simple Spring MVC web application using Gradle ** SpringMVC-HelloWorld-Gradle.zip ** gradlespringmvc.war) http://10.13.71.153:8080/gradlespringmvc/hello/alex
+
+[/JenkinsProjects/jenkins-signup-spring2/Spring/gs-caching-master/initial] (Simple Spring using Gradle Cacheable ** gs-caching-master.zip)
+[/JenkinsProjects/jenkins-signup-spring2/Spring/gs-caching-master/complete] (Simple Spring using Gradle Cacheable ** gs-caching-master.zip)
+******************************************************************************************
+************************************************************************************************************************************************************************************
+
+
+
+
+
+

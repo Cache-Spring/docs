@@ -1,0 +1,10 @@
+allprojects {
+    repositories {
+        maven {
+            url "http://10.13.71.11:8081/nexus/service/local/repositories/143_public/content/"
+        }
+        maven {
+            url "http://10.13.71.11:8081/nexus/service/local/repositories/releases/content/"
+        }
+    }
+}

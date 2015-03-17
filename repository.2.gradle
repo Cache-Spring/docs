@@ -1,0 +1,22 @@
+allprojects {
+
+    ext {
+        nexusAddress = "http://nexus.nc.pb.ua:8081/nexus/content/repositories/"
+	nexusLogin = "deployment"
+	nexusPassword = "1qazse4"
+    }
+
+    repositories {
+        maven {
+            url "http://nexus.nc.pb.ua:8081/nexus/content/groups/public"
+        }
+    }
+
+    buildscript {
+        repositories {
+            maven {
+                url "http://nexus.nc.pb.ua:8081/nexus/content/groups/public"
+            }
+        }
+    }
+}
